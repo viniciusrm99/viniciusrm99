@@ -18,7 +18,6 @@ e aprendizados.
         width="200px" height="auto" alt="Descrição da imagem">
 </div>
 
-![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ## *Habilidades* 💻
 
@@ -35,9 +34,9 @@ e aprendizados.
 
 
 - **Desenvolvimento Web:**
-    - Criação de sites responsivos
-    - Integração com APIs
-    - Desenvolvimento de aplicações dinâmicas e imersivas
+- Criação de sites responsivos
+- Integração com APIs
+- Desenvolvimento de aplicações dinâmicas e imersivas
 
 
 - **Ferramentas e Tecnologias:**
@@ -57,7 +56,6 @@ e aprendizados.
 
 </div>
 
-![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ## *Projetos* 🛠️
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
@@ -73,6 +71,7 @@ para o banco de dados.
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ## *Contato* 📫
+![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 <div style="display: inline-block; margin: auto;">
     <a href="https://linkedin.com/in/viníciusmiranda" target="_blank"><img
