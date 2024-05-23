@@ -6,15 +6,17 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Jud
 desenvolvimento web e adoro transformar ideias em realidade por meio do código. Estou sempre em busca de novos desafios
 e aprendizados.
 
-<div style="max-width: 100%; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=viniciusrm99&show_icons=true&theme=dracula" width="380px" alt="viniciusrm99 GitHub stats">
-    <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200px" height="auto" alt="Descrição da imagem">
+<div
+    style="max-width: 100%; display: flex; justify-content: center; align-items: center; margin-left: 100px;padding-left: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=viniciusrm99&show_icons=true&theme=dracula"
+        width="380px" alt="viniciusrm99 GitHub stats">
+    <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"
+        width="200px" height="auto" alt="Descrição da imagem">
 </div>
 
 
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 
 ## *Habilidades* 💻
