@@ -6,7 +6,8 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu. Tenho uma paixão por desenvolvimento web e adoro transformar ideias em realidade por meio do código. Estou sempre em busca de novos desafios e aprendizados.
 
-![viniciusrm99 GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusrm99&show_icons=true&theme=dracula) 
+![viniciusrm99 GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusrm99&show_icons=true&theme=dracula) ![Descrição da imagem](https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif)
+
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 
