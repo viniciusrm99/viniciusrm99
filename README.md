@@ -56,17 +56,20 @@ e aprendizados.
 
 </div>
 
-![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif) 
+![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-## *Projetos* 🛠️ ### ✅Site Burguer King 🍔 Inspirado no site oficial do Burguer King.
-Desenvolvido com HTML, CSS e JavaScript. 
+## *Projetos* 🛠️
+
+### ✅Site Burguer King 🍔 Inspirado no site oficial do Burguer King.
+Desenvolvido com HTML, CSS e JavaScript.
 [clique aqui](https://viniciusrm99.github.io/Projeto_burger_king/)
-### ⏳ Aplicação Java para Doação De Sangue🩸 
-Capaz de cadastrar e alterar dados de doadores, além de agendar doações de sangue. Utiliza Java para o backend e MySql para o banco de dados.
+### ⏳ Aplicação Java para Doação De Sangue🩸
+Capaz de cadastrar e alterar dados de doadores, além de agendar doações de sangue. Utiliza Java para o backend e MySql
+para o banco de dados.
 
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif) ##
 
-*Contato* 📫 
+*Contato* 📫
 
 <div style="display: inline-block; margin: auto;">
     <a href="https://linkedin.com/in/viníciusmiranda" target="_blank"><img
