@@ -32,10 +32,10 @@ e aprendizados.
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 - **Desenvolvimento Web:**
-- Conhecimento em HTML e CSS
-- Criação de sites responsivos
-- Integração com APIs
-- Desenvolvimento de aplicações dinâmicas
+    - Conhecimento em HTML e CSS
+    - Criação de sites responsivos
+    - Integração com APIs
+    - Desenvolvimento de aplicações dinâmicas
 
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
