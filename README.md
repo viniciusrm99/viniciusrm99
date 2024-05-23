@@ -15,7 +15,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Jud
   - Integração com APIs
   - Desenvolvimento de aplicações dinâmicas
 
-- **Linguagens de Programação:**
+  **Linguagens de Programação:**
 
 <div style = "display: inline_blcok"> 
 <img align = "center" src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -24,7 +24,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Jud
 </div>
 
 
-- **Ferramentas e Tecnologias:**
+ **Ferramentas e Tecnologias:**
   
 <div style = "display: inline_blcok"> 
 <img align = "center" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
