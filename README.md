@@ -6,13 +6,6 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu. Tenho uma paixão por desenvolvimento web e adoro transformar ideias em realidade por meio do código. Estou sempre em busca de novos desafios e aprendizados.
 
-<div style="display: inline_block; text-align: center;"> 
-<a href="mailto:vini.reis.miranda99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center"></a>
-<a href="https://linkedin.com/in/viníciusmiranda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center"></a>
-<a href="https://instagram.com/vinireism"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="center"></a>
-</div>
-
-
 ![viniciusrm99 GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusrm99&show_icons=true&theme=dracula)
 
 
@@ -57,4 +50,5 @@ Capaz de cadastrar e alterar dados de doadores, além de agendar doações de sa
 <a href="https://linkedin.com/in/viníciusmiranda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center"></a>
 <a href="https://instagram.com/vinireism"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="center"></a>
 </div>
+
 
