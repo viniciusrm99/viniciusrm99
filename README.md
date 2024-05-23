@@ -13,11 +13,6 @@ e aprendizados.
         width="200px" height="auto" alt="Descrição da imagem">
 </div>
 
-
-![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
-
-
-
 ## *Habilidades* 💻
 - **Linguagens de Programação:**
 <div style="display: inline_block">
@@ -28,13 +23,13 @@ e aprendizados.
         src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 
-
+![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 - **Desenvolvimento Web:**
 - Conhecimento em HTML e CSS
 - Criação de sites responsivos
 - Integração com APIs
 - Desenvolvimento de aplicações dinâmicas
-
+![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 - **Ferramentas e Tecnologias:**
 
 <div style="display: inline_block">
@@ -50,7 +45,7 @@ e aprendizados.
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
-
+![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 ## *Projetos* 🛠️
 
 ### ✅Site Burguer King 🍔
@@ -62,7 +57,7 @@ Capaz de cadastrar e alterar dados de doadores, além de agendar doações de sa
 para o banco de dados.
 
 
-
+![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 ## *Contato* 📫
 <div style="display: inline-block; margin: auto;">
     <a href="https://linkedin.com/in/viníciusmiranda" target="_blank"><img
