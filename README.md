@@ -6,7 +6,6 @@
 ## *Sobre Mim* 🚀
 
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
-
 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu. Tenho uma paixão por
 desenvolvimento web e adoro transformar ideias em realidade por meio do código. Estou sempre em busca de novos desafios
 e aprendizados.
@@ -20,7 +19,6 @@ e aprendizados.
 
 
 ## *Habilidades* 💻
-
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 - **Linguagens de Programação:**
@@ -59,7 +57,6 @@ e aprendizados.
 
 
 ## *Projetos* 🛠️
-
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ### ✅Site Burguer King 🍔
@@ -72,7 +69,6 @@ para o banco de dados.
 
 
 ## *Contato* 📫
-
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 <div style="display: inline-block; margin: auto;">
