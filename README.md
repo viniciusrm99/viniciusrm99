@@ -1,5 +1,4 @@
-<img src=https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg
-    height="300px" width="100%">
+<img src=https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg>
 
 #👋 Oi, sou **Vinicius Reis**!
 
