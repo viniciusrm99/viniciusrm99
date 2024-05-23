@@ -7,7 +7,7 @@
 
 ## *Sobre Mim* 🚀
 
-Estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu, focado em desenvolvimento web. Apaixonado por transformar ideias em soluções através do código. Busco constantemente desafios e oportunidades de aprendizado para expandir meu conhecimento e habilidades
+Estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu, focado em desenvolvimento web. Apaixonado por transformar ideias em soluções através do código. Busco constantemente desafios e oportunidades de aprendizado para expandir meu conhecimento e habilidades.
 
 <div style="display:flex">
     <img src="https://github-readme-stats.vercel.app/api?username=viniciusrm99&show_icons=true&theme=dracula"
