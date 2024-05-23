@@ -31,9 +31,9 @@ e aprendizados.
 
 
 - **Desenvolvimento Web:**
-- Criação de sites responsivos
-- Integração com APIs
-- Desenvolvimento de aplicações dinâmicas e imersivas
+    - Criação de sites responsivos
+    - Integração com APIs
+    - Desenvolvimento de aplicações dinâmicas e imersivas
 
 
 - **Ferramentas e Tecnologias:**
