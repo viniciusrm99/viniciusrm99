@@ -24,8 +24,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Jud
 </div>
 
 <p></p>
-- **Ferramentas e Tecnologias:**
-  
+ - **Ferramentas e Tecnologias:**
+ 
 <div style = "display: inline_blcok"> 
 <img align = "center" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align = "center" src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
