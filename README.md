@@ -56,7 +56,7 @@ e aprendizados.
     <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 
 </div>
-<div style="text-align: center;justify-content: center; position: relative; margin-top: 3px;">
+<div style="text-align: center;justify-content: center; position: relative; margin-top: 100px; padding-top: 500px;">
     <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
