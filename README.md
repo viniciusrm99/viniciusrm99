@@ -5,8 +5,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu. Tenho uma paixão por desenvolvimento web e adoro transformar ideias em realidade por meio do código. Estou sempre em busca de novos desafios e aprendizados.
 
-![viniciusrm99 GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusrm99&show_icons=true&theme=dracula) ![viniciusrm99 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrm99&theme=blue-green) 
-
+![viniciusrm99 GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusrm99&show_icons=true&theme=dracula) 
 
 
 
@@ -17,6 +16,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Jud
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
+![viniciusrm99 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrm99&theme=blue-green) 
+
 
 - **Desenvolvimento Web:**
   - Conhecimento em HTML e CSS
