@@ -1,4 +1,3 @@
-# Vinicius Reis
 
 👋 Oi, sou **Vinicius Reis**!
 
