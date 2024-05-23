@@ -43,9 +43,11 @@ Inspirado no site oficial do Burguer King. Desenvolvido com HTML, CSS e JavaScri
 
 ### Projeto 2: Aplicação Java para Doação De Sangue (em andamento...) 🩸
 Capaz de cadastrar e alterar dados de doadores, além de agendar doações de sangue. Utiliza Java para o backend e MySql para o banco de dados.
-<div id="wrapper" style="text-align: center; display: inline-block;">
-  <h2 style="margin: 0;">*Contato* 📫</h2>
-  <div style="display: inline-block;">
+
+
+<div id="wrapper" style="text-align: center;">
+  <h2>*Contato* 📫</h2>
+  <div style="display: inline-block; margin: auto;">
     <a href="mailto:vini.reis.miranda99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://linkedin.com/in/viníciusmiranda" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://instagram.com/vinireism" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
