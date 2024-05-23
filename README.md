@@ -21,6 +21,9 @@ e aprendizados.
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ## *Habilidades* 💻
+
+![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 - **Linguagens de Programação:**
 <div style="display: inline_block">
     <img align="center"
@@ -29,14 +32,13 @@ e aprendizados.
         src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 
-![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 
 - **Desenvolvimento Web:**
     - Criação de sites responsivos
     - Integração com APIs
     - Desenvolvimento de aplicações dinâmicas e imersivas
 
-![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 - **Ferramentas e Tecnologias:**
 
@@ -58,6 +60,7 @@ e aprendizados.
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ## *Projetos* 🛠️
+![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ### ✅Site Burguer King 🍔
 Inspirado no site oficial do Burguer King.
