@@ -1,16 +1,42 @@
-## Hi there 👋
+Vinicius Reis
+👋 Oi, sou Vinicius Reis!
 
-<!--
-**viniciusrm99/viniciusrm99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre Mim
+Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu. Tenho uma paixão por desenvolvimento web e adoro transformar ideias em realidade por meio do código. Estou sempre em busca de novos desafios e aprendizados.
 
-Here are some ideas to get you started:
+Habilidades
+Linguagens de Programação:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML
+CSS
+JavaScript
+Java
+SQL
+Desenvolvimento Web:
+
+Criação de sites responsivos
+Integração com APIs
+Desenvolvimento de aplicações dinâmicas
+
+Ferramentas e Tecnologias:
+
+Git & GitHub
+Visual Studio Code
+MySQL
+Excel
+
+Projetos:
+
+Projeto 1: Site Burguer King
+Inspirado no site oficial do Burguer King. Desenvolvido com HTML, CSS e JavaScript.
+[clique aqui](https://viniciusrm99.github.io/Projeto_burger_king/)
+
+Projeto 2: Aplicação Java para Doação De Sangue
+Capaz de cadastrar e alterar dados de doadores, além de agendar doações de sangue. Utiliza Java para o backend e MySql para o banco de dados.
+
+Contato
+
+GitHub: Meu GitHub
+LinkedIn: Meu LinkedIn
+E-mail: vini.reis.miranda99@gmail.com
+Instagram: @vinireism
