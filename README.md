@@ -41,11 +41,10 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Jud
 Inspirado no site oficial do Burguer King. Desenvolvido com HTML, CSS e JavaScript.
 [clique aqui](https://viniciusrm99.github.io/Projeto_burger_king/)
 
-### Projeto 2: Aplicação Java para Doação De Sangue (Em etapa de desenvolvimento) 🩸
+### Projeto 2: Aplicação Java para Doação De Sangue (em andamento...) 🩸
 Capaz de cadastrar e alterar dados de doadores, além de agendar doações de sangue. Utiliza Java para o backend e MySql para o banco de dados.
 
 ## *Contato* 📫
-- **E-mail:** [vini.reis.miranda99@gmail.com](mailto:vini.reis.miranda99@gmail.com)
-- **LinkedIn:** [Meu LinkedIn](https://linkedin.com/in/viníciusmiranda)
-- **Instagram:** [@vinireism](https://instagram.com/vinireism)
-- **GitHub:** [Meu GitHub](https://github.com/viniciusrm99)
+- **Gmail:** [vini.reis.miranda99@gmail.com](mailto:vini.reis.miranda99@gmail.com) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vini.reis.miranda99@gmail.com)
+- **LinkedIn:** [Meu LinkedIn](https://linkedin.com/in/viníciusmiranda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viníciusmiranda)
+- **Instagram:** [📸 @vinireism](https://instagram.com/vinireism) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinireism)
