@@ -17,8 +17,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Jud
   <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
 
-![viniciusrm99 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrm99&theme=blue-green). 
-
 
 - **Desenvolvimento Web:**
   - Conhecimento em HTML e CSS
