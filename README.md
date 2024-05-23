@@ -2,6 +2,8 @@
 
 ## *Sobre Mim* 🚀
 
+![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu. Tenho uma paixão por
 desenvolvimento web e adoro transformar ideias em realidade por meio do código. Estou sempre em busca de novos desafios
 e aprendizados.
@@ -12,7 +14,9 @@ e aprendizados.
     <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"
         width="200px" height="auto" alt="Descrição da imagem">
 </div>
+
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 ## *Habilidades* 💻
 - **Linguagens de Programação:**
 <div style="display: inline_block">
@@ -24,6 +28,7 @@ e aprendizados.
 </div>
 
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 - **Desenvolvimento Web:**
 - Conhecimento em HTML e CSS
 - Criação de sites responsivos
@@ -31,6 +36,7 @@ e aprendizados.
 - Desenvolvimento de aplicações dinâmicas
 
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 - **Ferramentas e Tecnologias:**
 
 <div style="display: inline_block">
@@ -48,6 +54,7 @@ e aprendizados.
 </div>
 
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 ## *Projetos* 🛠️
 
 ### ✅Site Burguer King 🍔
@@ -60,6 +67,7 @@ para o banco de dados.
 
 
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 ## *Contato* 📫
 <div style="display: inline-block; margin: auto;">
     <a href="https://linkedin.com/in/viníciusmiranda" target="_blank"><img
