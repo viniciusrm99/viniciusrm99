@@ -46,8 +46,7 @@ e aprendizados.
         src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center"
         src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-    <img align="center"
-        src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+    <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center"
         src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />
     <img align="center"
@@ -56,38 +55,21 @@ e aprendizados.
     <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 
 </div>
-<div width="100%"" style=" text-align: center; position: relative; margin-top: 10px; padding-top: 50px;align-items: center; align-content: center;">
-    <div style="display: flex; justify-content: center; align-items: center;">
-        <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
-            style="margin: auto;" />
-    </div>
-</div>
 
-
-
-![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
-
-## *Projetos* 🛠️
-
-### ✅Site Burguer King 🍔
-Inspirado no site oficial do Burguer King. Desenvolvido com HTML, CSS e JavaScript.
-[clique aqui](https://viniciusrm99.github.io/Projeto_burger_king/)
-
-### ⏳Aplicação Java para Doação De Sangue🩸
-Capaz de cadastrar e alterar dados de doadores, além de agendar doações de sangue. Utiliza Java para o backend e MySql
-para o banco de dados.
-
-
-![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
-
-## *Contato* 📫
-<div style="display: inline-block; margin: auto;">
-    <a href="https://linkedin.com/in/viníciusmiranda" target="_blank"><img
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://instagram.com/vinireism" target="_blank"><img
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="mailto:vini.reis.miranda99@gmail.com"><img
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
+    ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif) ##
+    *Projetos* 🛠️ ### ✅Site Burguer King 🍔 Inspirado no site oficial do Burguer King. Desenvolvido com HTML, CSS e
+    JavaScript. [clique aqui](https://viniciusrm99.github.io/Projeto_burger_king/) ### ⏳Aplicação Java para Doação De
+    Sangue🩸 Capaz de cadastrar e alterar dados de doadores, além de agendar doações de sangue. Utiliza Java para o
+    backend e MySql para o banco de dados.
+    ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif) ##
+    *Contato* 📫 <div style="display: inline-block; margin: auto;">
+<a href="https://linkedin.com/in/viníciusmiranda" target="_blank"><img
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://instagram.com/vinireism" target="_blank"><img
+        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:vini.reis.miranda99@gmail.com"><img
+        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 <img src=https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg>
