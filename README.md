@@ -18,16 +18,15 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Jud
   
   - **Linguagens de Programação:**
 
-<div style = "display: inline_blcok"> 
+<div style = "display: inline_block"> 
 <img align = "center" src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align = "center" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align = "center" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
 
-<p></p>
  - **Ferramentas e Tecnologias:**
  
-<div style = "display: inline_blcok"> 
+<div style = "display: inline_block"> 
 <img align = "center" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align = "center" src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 <img align = "center" src = "https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
