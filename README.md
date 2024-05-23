@@ -1,4 +1,5 @@
-<img src=https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg>
+<img src=https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
+    height="300px" width="100%">
 
 #👋 Oi, sou **Vinicius Reis**!
 
@@ -79,3 +80,5 @@ para o banco de dados.
     <a href="mailto:vini.reis.miranda99@gmail.com"><img
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+
+<img src=https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg>
