@@ -1,7 +1,8 @@
 <img src=https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
     height="200px" width="100%">
 
-#👋 Oi, sou **Vinicius Reis**!
+#👋 Oi, sou **Vinicius Reis!**
+
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 ## *Sobre Mim* 🚀
 
@@ -30,9 +31,9 @@ e aprendizados.
 
 
 - **Desenvolvimento Web:**
-    - Criação de sites responsivos
-    - Integração com APIs
-    - Desenvolvimento de aplicações dinâmicas e imersivas
+- Criação de sites responsivos
+- Integração com APIs
+- Desenvolvimento de aplicações dinâmicas e imersivas
 
 
 - **Ferramentas e Tecnologias:**
@@ -63,6 +64,7 @@ Desenvolvido com HTML, CSS e JavaScript.
 ### ⏳ Aplicação Java para Doação De Sangue🩸
 Capaz de cadastrar e alterar dados de doadores, além de agendar doações de sangue. Utiliza Java para o backend e MySql
 para o banco de dados.
+
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 ## *Contato* 📫
 
