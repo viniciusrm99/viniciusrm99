@@ -11,10 +11,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Jud
 ## *Habilidades* 💻
 
 - **Linguagens de Programação:**
-  - JavaScript
+<div style = "display: inline_blcok"> 
+<img align = "center" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   - Java
   - SQL
-
+</div>
 - **Desenvolvimento Web:**
   - Conhecimento em HTML e CSS
   - Criação de sites responsivos
