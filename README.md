@@ -2,10 +2,8 @@
     height="200px" width="100%">
 
 #👋 Oi, sou **Vinicius Reis**!
-
-## *Sobre Mim* 🚀
-
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+## *Sobre Mim* 🚀
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu. Tenho uma paixão por
 desenvolvimento web e adoro transformar ideias em realidade por meio do código. Estou sempre em busca de novos desafios
@@ -18,10 +16,8 @@ e aprendizados.
         width="200px" height="auto" alt="Descrição da imagem">
 </div>
 
-
-## *Habilidades* 💻
-
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+## *Habilidades* 💻
 
 - **Linguagens de Programação:**
 <div style="display: inline_block">
@@ -34,9 +30,9 @@ e aprendizados.
 
 
 - **Desenvolvimento Web:**
-- Criação de sites responsivos
-- Integração com APIs
-- Desenvolvimento de aplicações dinâmicas e imersivas
+    - Criação de sites responsivos
+    - Integração com APIs
+    - Desenvolvimento de aplicações dinâmicas e imersivas
 
 
 - **Ferramentas e Tecnologias:**
@@ -56,9 +52,9 @@ e aprendizados.
 
 </div>
 
-
-## *Projetos* 🛠️
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+## *Projetos* 🛠️
+
 
 ### ✅Site Burguer King 🍔
 Inspirado no site oficial do Burguer King.
@@ -67,9 +63,9 @@ Desenvolvido com HTML, CSS e JavaScript.
 ### ⏳ Aplicação Java para Doação De Sangue🩸
 Capaz de cadastrar e alterar dados de doadores, além de agendar doações de sangue. Utiliza Java para o backend e MySql
 para o banco de dados.
-
-## *Contato* 📫
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+## *Contato* 📫
+
 
 <div style="display: inline-block; margin: auto;">
     <a href="https://linkedin.com/in/viníciusmiranda" target="_blank"><img
