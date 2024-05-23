@@ -60,7 +60,8 @@ e aprendizados.
 
 ## *Projetos* 🛠️
 
-### ✅Site Burguer King 🍔 Inspirado no site oficial do Burguer King.
+### ✅Site Burguer King 🍔 
+Inspirado no site oficial do Burguer King.
 Desenvolvido com HTML, CSS e JavaScript.
 [clique aqui](https://viniciusrm99.github.io/Projeto_burger_king/)
 ### ⏳ Aplicação Java para Doação De Sangue🩸
