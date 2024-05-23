@@ -24,13 +24,14 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Jud
   - Desenvolvimento de aplicações dinâmicas
 
 - **Ferramentas e Tecnologias:**
+- <div style = "display: inline_blcok"> 
 <img align = "center" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align = "center" src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 <img align = "center" src = "https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
 <img align = "center" src = "https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
 <img align = "center" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img align = "center" src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-- 
+</div>
   - Git & GitHub
   - Visual Studio Code
   - NetBeans
