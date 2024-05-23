@@ -35,15 +35,14 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Jud
   <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
-- ## *Projetos* 🛠️
-  - ### Site Burguer King 🍔
-Inspirado no site oficial do Burguer King. Desenvolvido com HTML, CSS e JavaScript.
-[clique aqui](https://viniciusrm99.github.io/Projeto_burger_king/)
-  - ### Aplicação Java para Doação De Sangue (em andamento...) 🩸
-Capaz de cadastrar e alterar dados de doadores, além de agendar doações de sangue. Utiliza Java para o backend e MySql para o banco de dados.
-  
+## *Projetos* 🛠️
 
+- **Site Burguer King 🍔**
+  Inspirado no site oficial do Burguer King. Desenvolvido com HTML, CSS e JavaScript.
+  [clique aqui](https://viniciusrm99.github.io/Projeto_burger_king/)
 
+- **Aplicação Java para Doação De Sangue (em andamento...) 🩸**
+  Capaz de cadastrar e alterar dados de doadores, além de agendar doações de sangue. Utiliza Java para o backend e MySql para o banco de dados.
 
 
 ## *Contato* 📫
