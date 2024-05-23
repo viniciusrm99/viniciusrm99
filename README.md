@@ -1,7 +1,7 @@
 <img src=https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
     height="200px" width="100%">
 
-# 👋 Oi, sou **Vinicius Reis**!
+#👋 Oi, sou **Vinicius Reis**!
 
 ## *Sobre Mim* 🚀
 
@@ -23,7 +23,6 @@ e aprendizados.
 ## *Habilidades* 💻
 - **Linguagens de Programação:**
 <div style="display: inline_block">
-    <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center"
         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="center"
@@ -54,6 +53,9 @@ e aprendizados.
     <img align="center"
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+
 </div>
 
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
