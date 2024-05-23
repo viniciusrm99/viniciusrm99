@@ -7,7 +7,7 @@ desenvolvimento web e adoro transformar ideias em realidade por meio do código.
 e aprendizados.
 <div style="max-width: 100%;">
     <img src="https://github-readme-stats.vercel.app/api?username=viniciusrm99&show_icons=true&theme=dracula"
-        alt="viniciusrm99 GitHub stats">
+        width="380px" alt="viniciusrm99 GitHub stats">
     <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"
         alt="Descrição da imagem">
 </div>
