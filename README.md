@@ -41,7 +41,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Jud
 Inspirado no site oficial do Burguer King. Desenvolvido com HTML, CSS e JavaScript.
 [clique aqui](https://viniciusrm99.github.io/Projeto_burger_king/)
 
-### ⏳Aplicação Java para Doação De Sangue (Em etapa de desenvolvimento) 🩸
+### ⏳Aplicação Java para Doação De Sangue🩸
 Capaz de cadastrar e alterar dados de doadores, além de agendar doações de sangue. Utiliza Java para o backend e MySql para o banco de dados.
 
 
