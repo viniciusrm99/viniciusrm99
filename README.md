@@ -18,9 +18,11 @@ e aprendizados.
         width="200px" height="auto" alt="Descrição da imagem">
 </div>
 
-![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ## *Habilidades* 💻
+
+![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 - **Linguagens de Programação:**
 <div style="display: inline_block">
     <img align="center"
@@ -29,7 +31,6 @@ e aprendizados.
         src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 
-![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 - **Desenvolvimento Web:**
 - Conhecimento em HTML e CSS
@@ -37,7 +38,6 @@ e aprendizados.
 - Integração com APIs
 - Desenvolvimento de aplicações dinâmicas
 
-![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 - **Ferramentas e Tecnologias:**
 
@@ -56,11 +56,13 @@ e aprendizados.
 
 </div>
 
-![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 
 ## *Projetos* 🛠️
 
-### ✅Site Burguer King 🍔 
+![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
+### ✅Site Burguer King 🍔
 Inspirado no site oficial do Burguer King.
 Desenvolvido com HTML, CSS e JavaScript.
 [clique aqui](https://viniciusrm99.github.io/Projeto_burger_king/)
@@ -68,9 +70,10 @@ Desenvolvido com HTML, CSS e JavaScript.
 Capaz de cadastrar e alterar dados de doadores, além de agendar doações de sangue. Utiliza Java para o backend e MySql
 para o banco de dados.
 
-![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ## *Contato* 📫
+
+![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 <div style="display: inline-block; margin: auto;">
     <a href="https://linkedin.com/in/viníciusmiranda" target="_blank"><img
