@@ -56,10 +56,12 @@ e aprendizados.
     <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 
 </div>
-<div
-    style="text-align: center;justify-content: center;align-content: center ;position: relative; margin-top: 10px; padding-top: 50px;">
-    <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<div style="text-align: center; position: relative; margin-top: 10px; padding-top: 50px;">
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+    </div>
 </div>
+
 
 
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
