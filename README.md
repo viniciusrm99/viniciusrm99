@@ -27,14 +27,6 @@ Estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas T
         src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 
-
-
-- **Desenvolvimento Web:**
-    - Criação de sites responsivos
-    - Integração com APIs
-    - Desenvolvimento de aplicações dinâmicas e imersivas
-
-
 - **Ferramentas e Tecnologias:**
 
 <div style="display: inline_block">
