@@ -14,8 +14,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Jud
   - Criação de sites responsivos
   - Integração com APIs
   - Desenvolvimento de aplicações dinâmicas
-
-- **Linguagens de Programação:**
+  
+  
+  - **Linguagens de Programação:**
 
 <div style = "display: inline_blcok"> 
 <img align = "center" src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
