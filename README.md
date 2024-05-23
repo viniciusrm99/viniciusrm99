@@ -10,13 +10,14 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Jud
 
 - **Linguagens de Programação:**
 
+## *Habilidades* 💻
+
 <div style="display: inline_block"> 
   <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
 
-## *Habilidades* 💻
 - **Desenvolvimento Web:**
   - Conhecimento em HTML e CSS
   - Criação de sites responsivos
