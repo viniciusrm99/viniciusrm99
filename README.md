@@ -12,9 +12,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Jud
 
 - **Linguagens de Programação:**
 <div style = "display: inline_blcok"> 
-<img align = "center" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  - Java
-  - SQL
+<img align = "center" src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align = "center" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img align = "center" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
 - **Desenvolvimento Web:**
   - Conhecimento em HTML e CSS
