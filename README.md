@@ -56,7 +56,7 @@ e aprendizados.
     <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 
 </div>
-<div width="100%"" style="text-align: center; position: relative; margin-top: 10px; padding-top: 50px;">
+<div width="100%"" style=" text-align: center; position: relative; margin-top: 10px; padding-top: 50px;align-items: center; align-content: center;">
     <div style="display: flex; justify-content: center; align-items: center;">
         <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
             style="margin: auto;" />
