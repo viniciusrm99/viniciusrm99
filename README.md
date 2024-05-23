@@ -2,6 +2,7 @@ Vinicius Reis
 👋 Oi, sou Vinicius Reis!
 
 Sobre Mim
+
 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu. Tenho uma paixão por desenvolvimento web e adoro transformar ideias em realidade por meio do código. Estou sempre em busca de novos desafios e aprendizados.
 
 Habilidades
