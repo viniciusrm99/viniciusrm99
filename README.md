@@ -46,7 +46,7 @@ Capaz de cadastrar e alterar dados de doadores, além de agendar doações de sa
 
 ## *Contato* 📫
 <div style="display: inline_block"> 
-- **Gmail:** [vini.reis.miranda99@gmail.com](mailto:vini.reis.miranda99@gmail.com) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vini.reis.miranda99@gmail.com)
-- **LinkedIn:** [Meu LinkedIn](https://linkedin.com/in/viníciusmiranda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viníciusmiranda)
+-(mailto:vini.reis.miranda99@gmail.com) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vini.reis.miranda99@gmail.com)
+- (https://linkedin.com/in/viníciusmiranda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viníciusmiranda)
 -(https://instagram.com/vinireism) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinireism)
 </div>;
