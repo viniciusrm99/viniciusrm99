@@ -25,6 +25,8 @@ Estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas T
         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="center"
         src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img align="center"
+        src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div>
 <p></p>
 
@@ -68,6 +70,8 @@ Utiliza Java para o backend e MySql para o banco de dados.
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="mailto:vini.reis.miranda99@gmail.com"><img
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+     <a href="https://wa.me/5511991053323?text=Ol%C3%A1,%20Vin%C3%ADcius.%20Tudo%20bem?%20%0AVi%20seu%20perfil%20no%20GitHub%20e%20estou%20entrando%20em%20contato.%20"><img
+            src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
 <img src=https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg>
