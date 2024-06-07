@@ -49,7 +49,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas T
 </div>
 
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
-## *Projetos* 🛠️
+## *Projetos Finalizados* 🛠️
 
 
 ### ✅ Site Burguer King 🍔
@@ -61,7 +61,14 @@ Capaz de cadastrar e alterar dados de doadores, além de agendar doações de sa
 Utiliza Java para o backend e MySql para o banco de dados.
 [clique aqui](https://www.youtube.com/watch?v=FNa8p_mEGuk&ab_channel=Vin%C3%ADciusReisd)
 
-![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+## *Projetos em desenvolvimento* 🚧
+
+⏳ Site de Odontologia 🦷
+Criado em conjunto com Matheus Leite e Gabriel Dantas com o intuito de servir como uma plataforma online para agendamento de consultas odontológicas. Desenvolvido com HTML, CSS e JavaScript.
+
+⏳ Site de Games Simples 🎮
+Criado em parceria com Gilson Alves, com o objetivo de ser uma plataforma com jogos simples e divertidos, como jogo da velha, jogo da forca, quiz, entre outros. Desenvolvido com HTML, CSS e JavaScript.
+
 ## *Contato* 📫
 
 
