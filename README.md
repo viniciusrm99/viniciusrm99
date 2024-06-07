@@ -7,7 +7,7 @@
 
 ## *Sobre Mim* 🚀
 
-Me chamo Vinícius, tenho 24 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu, com foco em desenvolvimento web. Sou apaixonado por transformar ideias em soluções por meio do código e busco constantemente desafios e oportunidades de aprendizado para expandir meus conhecimentos e habilidades. Adoro desenvolver projetos pessoais que me desafiem e, no momento, estou estudando C# e trabalhando nos meus dois novos projetos.
+Estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu, com foco em desenvolvimento web. Sou apaixonado por transformar ideias em soluções por meio do código e busco constantemente desafios e oportunidades de aprendizado para expandir meus conhecimentos e habilidades. Adoro desenvolver projetos pessoais que me desafiem e, no momento, estou estudando C# e trabalhando nos meus dois novos projetos.
 
 <div style="display:flex">
     <img src="https://github-readme-stats.vercel.app/api?username=viniciusrm99&show_icons=true&theme=dracula"
