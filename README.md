@@ -61,7 +61,7 @@ Capaz de cadastrar e alterar dados de doadores, além de agendar doações de sa
 Utiliza Java para o backend e MySql para o banco de dados.
 [clique aqui](https://www.youtube.com/watch?v=FNa8p_mEGuk&ab_channel=Vin%C3%ADciusReisd)
 
-## *Projetos em desenvolvimento* 🚧
+## *Projetos em Desenvolvimento* 🚧
 
 ### ⏳ Site de Odontologia 🦷
 Em desenvolvimento por mim (full-stack), Matheus Leite (back-end), Gabriel Dantas (front-end) e Guilherme Dias (web-desginer) com o intuito de servir como uma plataforma online para agendamento de consultas odontológicas. Desenvolvido com HTML, CSS, JavaScript, Angular e MySql.
