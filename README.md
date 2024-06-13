@@ -67,7 +67,7 @@ Utiliza Java para o backend e MySql para o banco de dados.
 Em desenvolvimento por mim (full-stack), Matheus Leite (back-end), Gabriel Dantas (front-end) e Guilherme Dias (web-desginer) com o intuito de servir como uma plataforma online para agendamento de consultas odontológicas. Desenvolvido com HTML, CSS, JavaScript, Angular e MySql.
 
 ### ⏳ Site de Games Simples 🎮
-Criado em parceria com Gilson Alves, com o objetivo de ser uma plataforma com jogos simples e divertidos, como jogo da velha, jogo da forca, quiz, entre outros. Desenvolvido com HTML, CSS, JavaScript.
+Criado em parceria com Gilson Alves, com o objetivo de ser uma plataforma com jogos simples e divertidos como: jogo da velha, jogo da forca, quizz, entre outros. Desenvolvido com HTML, CSS, JavaScript.
 
 ## *Contato* 📫
 
