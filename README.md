@@ -7,7 +7,9 @@
 
 ## *Sobre Mim* 🚀
 
-Estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu, com foco em desenvolvimento web. Sou apaixonado por transformar ideias em soluções por meio do código e busco constantemente desafios e oportunidades de aprendizado para expandir meus conhecimentos e habilidades. Adoro desenvolver projetos pessoais que me desafiem e, no momento, estou estudando C# e trabalhando nos meus dois novos projetos.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu, focado em desenvolvimento web. Sou apaixonado por transformar ideias em soluções por meio do código, buscando constantemente desafios e oportunidades para expandir meus conhecimentos e habilidades. No momento, estou estudando C# e Angular, além de trabalhar em dois novos projetos.
+
+Adoro desenvolver projetos pessoais que me desafiem e também realizar projetos em grupo com amigos, pois acredito que a troca de conhecimento é extremamente valiosa. Se você também gosta de codar e acha que podemos desenvolver algo juntos, entre em contato comigo!
 
 <div style="display:flex">
     <img src="https://github-readme-stats.vercel.app/api?username=viniciusrm99&show_icons=true&theme=dracula"
