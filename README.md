@@ -64,7 +64,7 @@ Utiliza Java para o backend e MySql para o banco de dados.
 ## *Projetos em desenvolvimento* 🚧
 
 ### ⏳ Site de Odontologia 🦷
-Criado em conjunto com Matheus Leite e Gabriel Dantas com o intuito de servir como uma plataforma online para agendamento de consultas odontológicas. Desenvolvido com HTML, CSS e JavaScript.
+Em desenvolvimento realizado por mim (full-stack), Matheus Leite (back-end), Gabriel Dantas (front-end) e Guilherme Dias (web-desginer) com o intuito de servir como uma plataforma online para agendamento de consultas odontológicas. Desenvolvido com HTML, CSS e JavaScript.
 
 ### ⏳ Site de Games Simples 🎮
 Criado em parceria com Gilson Alves, com o objetivo de ser uma plataforma com jogos simples e divertidos, como jogo da velha, jogo da forca, quiz, entre outros. Desenvolvido com HTML, CSS e JavaScript.
