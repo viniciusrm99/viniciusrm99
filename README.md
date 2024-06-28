@@ -10,7 +10,7 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu, focado em desenvolvimento web. Sou apaixonado por transformar ideias em soluções por meio do código, buscando constantemente desafios e oportunidades para expandir meus conhecimentos e habilidades. No momento, estou estudando C# e Angular, além de trabalhar em dois novos projetos.
 
 Adoro desenvolver projetos pessoais que me desafiem e também realizar projetos em grupo com amigos, pois acredito que a troca de conhecimento é extremamente valiosa. Se você também gosta de codar e acha que podemos desenvolver algo juntos, entre em contato comigo!
-
+Acesse meu portifório [clicando aqui](https://viniciusrm99.github.io/Portiforio-de-Projetos/)
 <div style="display:flex">
     <img src="https://github-readme-stats.vercel.app/api?username=viniciusrm99&show_icons=true&theme=dracula"
         width="380px" alt="viniciusrm99 GitHub stats">
