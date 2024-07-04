@@ -11,7 +11,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Jud
 
 Adoro desenvolver projetos pessoais que me desafiem e também realizar projetos em grupo com amigos, pois acredito que a troca de conhecimento é extremamente valiosa. Se você também gosta de codar e acha que podemos desenvolver algo juntos, entre em contato comigo!
 
-[Veja meu portfólio de projetos](https://viniciusrm99.github.io/Portifolio-Vinicius-Reis/#projetos)
+[Veja meu portfólio de projetos](https://viniciusrm99.github.io/Portifolio-Vinicius-Reis/)
 
  
 <div style="display:flex">
