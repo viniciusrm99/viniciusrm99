@@ -35,7 +35,7 @@ Adoro desenvolver projetos pessoais que me desafiem e também realizar projetos 
 
 - **Ferramentas e Tecnologias:**
 
-<div style="display: inline_block">
+<div style="display: inline_block; paddint-top:5px">
   <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
             <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>    
     <img align="center"
@@ -49,9 +49,10 @@ Adoro desenvolver projetos pessoais que me desafiem e também realizar projetos 
     <img align="center"
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-          
-
+        
 </div>
+
+
 
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 ## *Projetos Finalizados* 🛠️
