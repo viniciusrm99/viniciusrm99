@@ -8,7 +8,7 @@
 
 ## *Sobre Mim* 🚀
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu, focado em desenvolvimento web. Sou apaixonado por transformar ideias em soluções por meio do código, buscando constantemente desafios e oportunidades para expandir meus conhecimentos e habilidades. No momento, estou estudando Angular, além de trabalhar em dois novos projetos.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu, focado em desenvolvimento web. Sou apaixonado por transformar ideias em soluções por meio do código, buscando constantemente desafios e oportunidades para expandir meus conhecimentos e habilidades. No momento, estou estudando Angular e trabalhando em  meus dois novos projetos.
 
 Adoro desenvolver projetos pessoais que me desafiem e também realizar projetos em grupo com amigos, pois acredito que a troca de conhecimento é extremamente valiosa. Se você também gosta de codar e acha que podemos desenvolver algo juntos, entre em contato comigo!
 
