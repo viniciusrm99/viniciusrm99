@@ -35,7 +35,7 @@ Adoro desenvolver projetos pessoais que me desafiem e também realizar projetos 
 
 - **Ferramentas e Tecnologias:**
 
-<div style="display: inline_block; paddint-top:5px">
+<div style="display: inline_block; paddint-top: 5px; margin-bottom: 10px;">
   <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
             <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>    
     <img align="center"
