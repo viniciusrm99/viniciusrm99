@@ -41,10 +41,6 @@ Adoro desenvolver projetos pessoais que me desafiem e também realizar projetos 
 
 ## *Projetos Finalizados* 🛠️
 
-### ✅ Site Burguer King 🍔
-Inspirado no site oficial do Burguer King. Desenvolvido com HTML, CSS e JavaScript.
-[clique aqui](https://viniciusrm99.github.io/Projeto-Site-Burger-King/)
-
 ### ✅ Aplicação Java para Doação De Sangue🩸
 Capaz de cadastrar e alterar dados de doadores, além de agendar doações de sangue e enviar email de confirmação. Utiliza Java para o backend e MySql para o banco de dados.
 [clique aqui](https://www.youtube.com/watch?v=FNa8p_mEGuk&ab_channel=Vin%C3%ADciusReisd)
