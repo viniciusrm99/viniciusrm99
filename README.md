@@ -1,7 +1,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="200px" width="100%">
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F0ED&width=435&lines=Hi%2C+I'm+Vinicius+Reis.++Web+Developer.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SFMono-Regular&weight=600&size=24&duration=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Hey%2C+I'm+Vinicius+Reis!)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=SFMono-Regular&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full-Stack+web+and+app+developer;Always+learning+something+new;Collaborative+Spirit;Passion+for+Innovation;Creative+Problem+Solver" alt="Typing SVG" /></a>
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
         <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
