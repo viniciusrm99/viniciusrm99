@@ -51,7 +51,7 @@ Capaz de cadastrar e alterar dados de doadores, além de agendar doações de sa
 
 ### ⏳ Site de Odontologia 🦷
 Em desenvolvimento por mim (full-stack), Matheus Leite (back-end), Gabriel Dantas (front-end) e Guilherme Dias (web-desginer) com o intuito de servir como uma plataforma online para agendamento de consultas odontológicas. Desenvolvido com HTML, CSS, JavaScript, Angular, Bootstrap e MySql.
-
+[Prévia do Projeto](https://viniciusrm99.github.io/Treinando-Front-End/Layout%20Odontologia/index.html)
 ### ⏳ Site de Games Simples 🎮
 Criado em parceria com Gilson Alves, com o objetivo de ser uma plataforma com jogos simples e divertidos como: jogo da velha, jogo da forca, quizz, entre outros. Desenvolvido com HTML, CSS, JavaScript.
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
