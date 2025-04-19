@@ -10,13 +10,12 @@
 
 ## *Sobre Mim* 🚀
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu, focado em ciência de dados. No dia a dia, trabalho com Python, Pandas, PySpark, SQL, Tableau e Power BI, e tô mergulhando de cabeça no mundo do machine learning.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu, focado em ciência de dados. No dia a dia, trabalho com Python, Pandas, PySpark, SQL, Tableau e Power BI, e tô mergulhando de cabeça no mundo do machine learning. Atualmente, também atuo no Santander, na área de dados de seguros.
 
 Gosto de explorar dados, montar visualizações, testar modelos e entender como tudo isso pode ser usado pra resolver problemas de verdade. Sempre que posso, me envolvo em projetos pessoais e também curto muito desenvolver coisas em grupo — porque trocar ideia com outras pessoas da área sempre ensina muito.
 
-Se você também é do time que curte dados, códigos e descobertas, bora trocar uma ideia e quem sabe construir algo juntos!
+Se você também é do time que curte dados, códigos e descobertas, bora trocar uma ideia e quem sabe construir algo juntos! 
 
-[Veja meu portfólio de projetos](https://viniciusrm99.github.io/Portifolio-Vinicius-Reis/)
 <div align="center" style="display: flex; justify-content: center">
     <div>
     <img src="https://github-readme-stats.vercel.app/api?username=viniciusrm99&show_icons=true&theme=dracula" width="380px" alt="viniciusrm99 GitHub stats">
