@@ -3,7 +3,7 @@
     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=SFMono-Regular&weight=900&size=26&duration=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Hey%2C+I'm+Vinicius+Reis!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Data+Scientist+by+title%2C+explorer+by+nature.;Driven+by+data%2C+powered+by+curiosity.;Turning+data+into+decisions.;I+turn+messy+data+into+meaningful+stories.;Data+is+my+playground.+Python+is+my+tool.;Building+insights+with+code+and+caffeine.;Half+analyst%2C+half+scientist+%E2%80%94+full-time+data+nerd.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Data+Scientist+by+title%2C+explorer+by+nature.;Driven+by+data%2C+powered+by+curiosity.;Turning+data+into+decisions.;I+turn+messy+data+into+meaningful+stories.;Data+is+my+playground.+Python+is+my+tool.;Building+insights+with+code+and+caffeine.)](https://git.io/typing-svg)
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
         <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
