@@ -60,10 +60,11 @@ Capaz de cadastrar e alterar dados de doadores, além de agendar doações de sa
 
 ### ✅ Site de Odontologia 🦷
 Em desenvolvimento por mim (full-stack) e Guilherme Dias (web-desginer) com o intuito de servir como uma plataforma online para agendamento de consultas odontológicas. Desenvolvido com HTML, CSS, JavaScript, Bootstrap e MySql.
-[prévia do projeto](https://viniciusrm99.github.io/Treinando-Front-End/Layout%20Odontologia/index.html)
+[clique aqui](https://viniciusrm99.github.io/Treinando-Front-End/Layout%20Odontologia/index.html)
 
 ### ✅ Site de Jogo da Velha 🎮
 Criado com o objetivo de ser uma plataforma simples e interativa para jogar jogo da velha de forma online. Desenvolvido com HTML, CSS e JavaScript.
+[clique aqui](https://viniciusrm99.github.io/Projeto-Site-Games/jogo-da-velha.html)
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
         <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" /> <p></p></div>
 
