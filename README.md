@@ -53,7 +53,7 @@ Capaz de cadastrar e alterar dados de doadores, além de agendar doações de sa
 [clique aqui](https://www.youtube.com/watch?v=FNa8p_mEGuk&ab_channel=Vin%C3%ADciusReisd)
 
 ### ✅ Site de Odontologia 🦷
-Em desenvolvimento por mim (full-stack) e Guilherme Dias (web-desginer) com o intuito de servir como uma plataforma online para agendamento de consultas odontológicas. Desenvolvido com HTML, CSS, JavaScript, Bootstrap e MySql.
+Em desenvolvimento por mim (full-stack) e Guilherme Dias (web-desginer) com o intuito de servir como uma plataforma online para agendamento de consultas odontológicas. Desenvolvido com HTML, CSS, JavaScript e Bootstrap.
 [clique aqui](https://viniciusrm99.github.io/Treinando-Front-End/Layout%20Odontologia/index.html)
 
 ### ✅ Site de Jogo da Velha 🎮
