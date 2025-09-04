@@ -10,7 +10,7 @@
 
 ## *Sobre Mim* 🚀
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu, focado em ciência de dados. No dia a dia, trabalho com Python, Pandas, PySpark, SQL, Tableau e Power BI, e tô mergulhando de cabeça no mundo do machine learning. Atualmente, também atuo no Santander, na área de dados de seguros.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu, focado em engenharia de dados. No dia a dia, trabalho com Python, Pandas, PySpark, SQL, Tableau e Power BI, além de práticas de qualidade de dados e automação de processos. Meu objetivo é evoluir cada vez mais em engenharia de dados, construindo pipelines escaláveis e estruturas que permitam análises confiáveis e de alto impacto.
 
 Gosto de explorar dados, montar visualizações, testar modelos e entender como tudo isso pode ser usado pra resolver problemas de verdade. Sempre que posso, me envolvo em projetos pessoais e também curto muito desenvolver coisas em grupo — porque trocar ideia com outras pessoas da área sempre ensina muito.
 
