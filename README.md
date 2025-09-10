@@ -48,7 +48,7 @@ Se você também é do time que curte dados, códigos e descobertas, bora trocar
 
 # 🛠️ Projetos
 
-## 💾 Engenharia de Dados
+## 🎲 Engenharia de Dados
 *(ainda sem projetos nesta categoria)*
 
 ## 📊 Data Viz / BI
