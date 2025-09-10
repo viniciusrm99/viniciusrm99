@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="200px" width="100%">
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     
-[![Typing SVG](https://app.powerbi.com/groups/me/reports/a37dc385-57e1-4fb7-87db-baca6864c3b1/b41b0eb3d2a0614b2e2a?experience=power-bi&chromeless=1&bookmarkGuid=49f592846bc175c94700)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SFMono-Regular&weight=900&size=26&duration=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Hey%2C+I'm+Vinicius+Reis!)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=800&lines=Transformo+dados+em+decis%C3%B5es.;Cada+n%C3%BAmero+conta+uma+hist%C3%B3ria+e+eu+revelo+qual.;Do+caos+dos+dados+%C3%A0+clareza+dos+insights.;Analiso%2C+visualizo+e+impacto+o+neg%C3%B3cio.;Dados+n%C3%A3o+mentem+e+eu+mostro+o+que+eles+dizem.)](https://git.io/typing-svg)
 
@@ -58,7 +58,7 @@ Se você também é do time que curte dados, códigos e descobertas, bora trocar
 Dashboard analisando dados de corridas da 99, trazendo insights sobre reservas, receita, eficiência das viagens e comportamento de usuários.  
 Permite identificar tendências, otimizar operações, planejar alocação de frota e tomar decisões estratégicas.  
 
-[Ver Dashboard Interativo](https://app.powerbi.com/view?r=eyJrIjoiODQyZmQwM2MtMGNkYS00ZDY2LTk1M2YtOTlmOThkY2I4YjIxIiwidCI6IjI5NjM1NGU5LTk1MmItNDgwNC05NDE0LTA3N2MzZmVjNTg5NSJ9)
+[Ver Dashboard](https://app.powerbi.com/groups/me/reports/a37dc385-57e1-4fb7-87db-baca6864c3b1/b41b0eb3d2a0614b2e2a?experience=power-bi&chromeless=1&bookmarkGuid=49f592846bc175c94700)
 
 ## 🌐 Demais Projetos
 
