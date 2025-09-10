@@ -58,7 +58,7 @@ Se você também é do time que curte dados, códigos e descobertas, bora trocar
 Dashboard analisando dados de corridas da 99, trazendo insights sobre reservas, receita, eficiência das viagens e comportamento de usuários.  
 Permite identificar tendências, otimizar operações, planejar alocação de frota e tomar decisões estratégicas.  
 
-[Ver Dashboard](https://app.powerbi.com/groups/me/reports/a37dc385-57e1-4fb7-87db-baca6864c3b1/b41b0eb3d2a0614b2e2a?experience=power-bi&chromeless=1&bookmarkGuid=49f592846bc175c94700)
+[Ver Projeto](https://github.com/viniciusrm99/DataVizProjeto99)
 
 ## 🌐 Demais Projetos
 
