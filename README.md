@@ -3,7 +3,7 @@
     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=SFMono-Regular&weight=900&size=26&duration=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Hey%2C+I'm+Vinicius+Reis!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Data+Scientist+by+title%2C+explorer+by+nature.;Driven+by+data%2C+powered+by+curiosity.;Turning+data+into+decisions.;I+turn+messy+data+into+meaningful+stories.;Data+is+my+playground.+Python+is+my+tool.;Building+insights+with+code+and+caffeine.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=800&lines=Transformo+dados+em+decis%C3%B5es.;Cada+n%C3%BAmero+conta+uma+hist%C3%B3ria+e+eu+revelo+qual.;Do+caos+dos+dados+%C3%A0+clareza+dos+insights.;Analiso%2C+visualizo+e+impacto+o+neg%C3%B3cio.;Dados+n%C3%A3o+mentem+e+eu+mostro+o+que+eles+dizem.)](https://git.io/typing-svg)
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
         <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
@@ -46,25 +46,48 @@ Se você também é do time que curte dados, códigos e descobertas, bora trocar
 
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-## *Projetos Finalizados* 🛠️
+# 🛠️ Projetos
 
-### ✅ Aplicação Java para Doação De Sangue🩸
-Capaz de cadastrar e alterar dados de doadores, além de agendar doações de sangue e enviar email de confirmação. Utiliza Java para o backend e MySql para o banco de dados.
-[clique aqui](https://www.youtube.com/watch?v=FNa8p_mEGuk&ab_channel=Vin%C3%ADciusReisd)
+## 💾 Engenharia de Dados
+*(ainda sem projetos nesta categoria)*
 
-### ✅ Site de Odontologia 🦷
-Em desenvolvimento por mim (full-stack) e Guilherme Dias (web-desginer) com o intuito de servir como uma plataforma online para agendamento de consultas odontológicas. Desenvolvido com HTML, CSS, JavaScript e Bootstrap.
-[clique aqui](https://viniciusrm99.github.io/Treinando-Front-End/Layout%20Odontologia/index.html)
+## 📊 Data Viz / BI
 
-### ✅ Site de Jogo da Velha 🎮
-Criado com o objetivo de ser uma plataforma simples e interativa para jogar jogo da velha de forma online. Desenvolvido com HTML, CSS e JavaScript.
-[clique aqui](https://viniciusrm99.github.io/Projeto-Site-Games/jogo-da-velha.html)
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-        <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" /> <p></p></div>
+### 🚖 Painel de Corridas – 99
+**Power BI | Dashboard Interativo**  
+Dashboard analisando dados de corridas da 99, trazendo insights sobre reservas, receita, eficiência das viagens e comportamento de usuários.  
+Permite identificar tendências, otimizar operações, planejar alocação de frota e tomar decisões estratégicas.  
+
+[Ver Dashboard Interativo](https://app.powerbi.com/view?r=eyJrIjoiODQyZmQwM2MtMGNkYS00ZDY2LTk1M2YtOTlmOThkY2I4YjIxIiwidCI6IjI5NjM1NGU5LTk1MmItNDgwNC05NDE0LTA3N2MzZmVjNTg5NSJ9)
+
+## 🌐 Demais Projetos
+
+### 🩸 Aplicação Java para Doação de Sangue
+**Java | MySQL**  
+Sistema para cadastro e alteração de dados de doadores, agendamento de doações e envio de email de confirmação.  
+
+[Ver Projeto](https://www.youtube.com/watch?v=FNa8p_mEGuk&ab_channel=Vin%C3%ADciusReisd)
+
+### 🦷 Site de Odontologia
+**HTML | CSS | JavaScript | Bootstrap**  
+Plataforma online para agendamento de consultas odontológicas, desenvolvida em conjunto com web designer.  
+
+[Ver Projeto](https://viniciusrm99.github.io/Treinando-Front-End/Layout%20Odontologia/index.html)
+
+### 🎮 Site de Jogo da Velha
+**HTML | CSS | JavaScript**  
+Plataforma simples e interativa para jogar jogo da velha online.  
+
+[Ver Projeto](https://viniciusrm99.github.io/Projeto-Site-Games/jogo-da-velha.html)
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="60%" />
+</div>
+
 
 ## *Contato* 📫
 
-<div align="center" style="display: flex; gap: 10px; justify-content: center;">
+<div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
     <a href="https://linkedin.com/in/viníciusmiranda" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
@@ -79,4 +102,6 @@ Criado com o objetivo de ser uma plataforma simples e interativa para jogar jogo
     </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+<div align="center">
+    <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" width="100%">
+</div>
