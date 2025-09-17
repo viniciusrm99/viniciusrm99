@@ -60,7 +60,7 @@ Permite identificar tendências, otimizar operações, planejar alocação de fr
 
 [Ver Projeto](https://github.com/viniciusrm99/DataVizProjeto99)
 
-### 📋 Dashboard de Consulta – Tableau
+### 📋 Ferramenta de Busca CX – Tableau
 **Tableau | Reprodução de Solução Real**  
 Painel desenvolvido para suprir uma necessidade real vivida no trabalho: a equipe de negócios precisava consultar rapidamente informações de colaboradores, mas não havia ferramenta para isso.  
 Foi criada uma interface no Tableau que permite consultar por **CPF ou matrícula** e visualizar dados como nome, idade, telefone, empresa, setor e gestor.  
