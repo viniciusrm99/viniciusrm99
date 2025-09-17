@@ -3,7 +3,7 @@
     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=SFMono-Regular&weight=900&size=26&duration=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Hey%2C+I'm+Vinicius+Reis!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=800&lines=Transformo+dados+em+decis%C3%B5es.;Cada+n%C3%BAmero+conta+uma+hist%C3%B3ria+e+eu+revelo+qual.;Do+caos+dos+dados+%C3%A0+clareza+dos+insights.;Analiso%2C+visualizo+e+impacto+o+neg%C3%B3cio.;Dados+n%C3%A3o+mentem+e+eu+mostro+o+que+eles+dizem.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=800&lines=Transformo+dados+em+decis%C3%B5es.;Cada+n%C3%BAmero+conta+uma+hist%C3%B3ria+e+eu+revelo+qual.;Do+caos+dos+dados+%C3%A0+clareza+dos+insights.;Analiso%2C+visualizo+e+impacto+o+neg%C3%B3cio.;Dados+n%C3%A3o+mentem+e+eu+mostro+o+que+eles+dizem.)]
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
         <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
