@@ -18,7 +18,6 @@ Se você também é do time que curte dados, códigos e descobertas, bora trocar
 
 <div align="center" style="display: flex; justify-content: center">
     <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=viniciusrm99&show_icons=true&theme=dracula" width="380px" alt="viniciusrm99 GitHub stats">
     <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="auto" height="200px" alt="Descrição da imagem"> <p></p>
 </div>
 
