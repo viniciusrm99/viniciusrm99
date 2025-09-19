@@ -52,9 +52,8 @@ Se você também é do time que curte dados, códigos e descobertas, bora trocar
 
 ### 🛠️ Fuzzy Matching de Produtos
 **Python | Pré-processamento e Padronização de Dados**  
-Projeto que aplica **fuzzy matching** para padronizar nomes de produtos em uma base de vendas.  
-Ele identifica variações de nomes (erros de digitação, abreviações ou acentuação diferente) e converte para um produto padrão, **mantendo o valor original quando a correspondência não é confiável**.  
-O projeto também gera um **depara automático** e pode ser escalado para **Spark**, permitindo trabalhar com grandes volumes de dados.
+Modelo que padroniza nomes de produtos usando fuzzy matching, mantendo valores originais quando a correspondência não é confiável. 
+Gera um depara automático e pode ser escalado para Spark.
 
 [Ver Projeto](https://github.com/viniciusrm99/Projeto-Fuzzy-Matching/tree/main)
 
